@@ -1,7 +1,7 @@
 {
   "functions": {
     "api/mcp.go": {
-      "runtime": "vercel-go@3.x"
+      "runtime": "vercel-go@1.22"
     }
   }
 }
